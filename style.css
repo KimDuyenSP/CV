@@ -1,24 +1,19 @@
 body {
-    background-color: #f8f9fa;
+    background-color: #05e7f7;
     font-family: Arial, sans-serif;
   }
 
   header {
-    background-color: #343a40;
-    color: #fff;
-    padding: 30px 0;
-  }
-
-  header h1, header h2 {
-    color: #fff;
-    margin: 0;
+    background-color: #069efc;
+    color: #04d9f5;
+    padding:20px 0;
   }
 
   .profile-image {
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     object-fit: cover;
-    border-radius: 50%;
+    border-radius: 70%;
   }
 
   .card {
@@ -38,7 +33,7 @@ body {
   }
 
   .progress-bar {
-    background-color: #007bff;
+    background-color: #23c15f;
     border-radius: 5px;
   }
 
